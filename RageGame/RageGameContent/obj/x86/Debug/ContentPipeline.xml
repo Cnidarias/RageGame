@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Graphics\Walls\0.png</Source>
+      <Name>Graphics\Walls\0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cnidaria\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGame\bin\x86\Debug\Content\Graphics\Walls\0.xnb</Output>
+      <Time>2013-07-03T20:44:12-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Walls\1.png</Source>
+      <Name>Graphics\Walls\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cnidaria\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGame\bin\x86\Debug\Content\Graphics\Walls\1.xnb</Output>
+      <Time>2013-07-03T20:44:12-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Walls\10.png</Source>
+      <Name>Graphics\Walls\10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cnidaria\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGame\bin\x86\Debug\Content\Graphics\Walls\10.xnb</Output>
+      <Time>2013-07-03T23:33:08-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Walls\2.png</Source>
+      <Name>Graphics\Walls\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cnidaria\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGame\bin\x86\Debug\Content\Graphics\Walls\2.xnb</Output>
+      <Time>2013-07-03T20:44:12-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Walls\3.png</Source>
+      <Name>Graphics\Walls\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cnidaria\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGame\bin\x86\Debug\Content\Graphics\Walls\3.xnb</Output>
+      <Time>2013-07-03T20:44:12-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Walls\4.png</Source>
+      <Name>Graphics\Walls\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cnidaria\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGame\bin\x86\Debug\Content\Graphics\Walls\4.xnb</Output>
+      <Time>2013-07-03T20:44:12-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Walls\5.png</Source>
+      <Name>Graphics\Walls\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cnidaria\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGame\bin\x86\Debug\Content\Graphics\Walls\5.xnb</Output>
+      <Time>2013-07-03T20:44:12-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Walls\6.png</Source>
+      <Name>Graphics\Walls\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cnidaria\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGame\bin\x86\Debug\Content\Graphics\Walls\6.xnb</Output>
+      <Time>2013-07-03T20:44:12-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Walls\7.png</Source>
+      <Name>Graphics\Walls\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cnidaria\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGame\bin\x86\Debug\Content\Graphics\Walls\7.xnb</Output>
+      <Time>2013-07-03T23:31:04-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Walls\8.png</Source>
+      <Name>Graphics\Walls\8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cnidaria\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGame\bin\x86\Debug\Content\Graphics\Walls\8.xnb</Output>
+      <Time>2013-07-03T20:44:12-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Walls\9.png</Source>
+      <Name>Graphics\Walls\9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cnidaria\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGame\bin\x86\Debug\Content\Graphics\Walls\9.xnb</Output>
+      <Time>2013-07-03T23:02:44-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\DeathObjects\Spike.png</Source>
+      <Name>Graphics\DeathObjects\Spike</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cnidaria\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGame\bin\x86\Debug\Content\Graphics\DeathObjects\Spike.xnb</Output>
+      <Time>2013-07-06T02:16:00-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Character\character.bmp</Source>
+      <Name>Graphics\Character\character</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cnidaria\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGame\bin\x86\Debug\Content\Graphics\Character\character.xnb</Output>
+      <Time>2013-07-06T14:33:08-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Character\mainGun\mainGunTexture.png</Source>
+      <Name>Graphics\Character\mainGun\mainGunTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cnidaria\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGame\bin\x86\Debug\Content\Graphics\Character\mainGun\mainGunTexture.xnb</Output>
+      <Time>2013-07-14T22:04:02-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Font.spritefont</Source>
+      <Name>Fonts\Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cnidaria\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGame\bin\x86\Debug\Content\Fonts\Font.xnb</Output>
+      <Time>2013-07-29T22:23:20-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Cnidaria\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Cnidaria\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Cnidaria\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Cnidaria\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-11-01T20:47:31.8822636-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

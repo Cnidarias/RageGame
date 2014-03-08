@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Graphics\Walls\0.png</Source>
+      <Name>Graphics\Walls\0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pytho_000\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGame\bin\x86\Release\Content\Graphics\Walls\0.xnb</Output>
+      <Time>2013-07-03T23:52:13.1168805-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Walls\1.png</Source>
+      <Name>Graphics\Walls\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pytho_000\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGame\bin\x86\Release\Content\Graphics\Walls\1.xnb</Output>
+      <Time>2013-07-03T23:52:13.118881-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Walls\10.png</Source>
+      <Name>Graphics\Walls\10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pytho_000\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGame\bin\x86\Release\Content\Graphics\Walls\10.xnb</Output>
+      <Time>2013-07-03T23:52:13.1428839-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Walls\2.png</Source>
+      <Name>Graphics\Walls\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pytho_000\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGame\bin\x86\Release\Content\Graphics\Walls\2.xnb</Output>
+      <Time>2013-07-03T23:52:13.1308823-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Walls\3.png</Source>
+      <Name>Graphics\Walls\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pytho_000\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGame\bin\x86\Release\Content\Graphics\Walls\3.xnb</Output>
+      <Time>2013-07-03T23:52:13.1318831-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Walls\4.png</Source>
+      <Name>Graphics\Walls\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pytho_000\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGame\bin\x86\Release\Content\Graphics\Walls\4.xnb</Output>
+      <Time>2013-07-03T23:52:13.1338506-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Walls\5.png</Source>
+      <Name>Graphics\Walls\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pytho_000\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGame\bin\x86\Release\Content\Graphics\Walls\5.xnb</Output>
+      <Time>2013-07-03T23:52:13.1348849-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Walls\6.png</Source>
+      <Name>Graphics\Walls\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pytho_000\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGame\bin\x86\Release\Content\Graphics\Walls\6.xnb</Output>
+      <Time>2013-07-03T23:52:13.1368835-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Walls\7.png</Source>
+      <Name>Graphics\Walls\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pytho_000\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGame\bin\x86\Release\Content\Graphics\Walls\7.xnb</Output>
+      <Time>2013-07-03T23:52:13.1378649-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Walls\8.png</Source>
+      <Name>Graphics\Walls\8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pytho_000\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGame\bin\x86\Release\Content\Graphics\Walls\8.xnb</Output>
+      <Time>2013-07-03T23:52:13.1398841-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Walls\9.png</Source>
+      <Name>Graphics\Walls\9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pytho_000\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGame\bin\x86\Release\Content\Graphics\Walls\9.xnb</Output>
+      <Time>2013-07-04T00:07:12.6543386-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Character\Character.png</Source>
+      <Name>Graphics\Character\Character</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pytho_000\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGame\bin\x86\Release\Content\Graphics\Character\Character.xnb</Output>
+      <Time>2013-07-04T01:15:14.4318492-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\pytho_000\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\pytho_000\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\pytho_000\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGameContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\pytho_000\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGame\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-07-03T20:28:05.2463444-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

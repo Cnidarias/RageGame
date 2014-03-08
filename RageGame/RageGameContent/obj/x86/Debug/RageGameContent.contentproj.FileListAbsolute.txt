@@ -1,0 +1,3 @@
+C:\Users\pytho_000\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGameContent\obj\x86\Debug\RageGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\Pascal\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Cnidaria\Documents\Visual Studio 2010\Projects\RageGame\RageGame\RageGameContent\obj\x86\Debug\RageGameContent.contentprojResolveAssemblyReference.cache
